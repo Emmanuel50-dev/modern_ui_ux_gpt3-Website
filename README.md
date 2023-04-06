@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Modern UI/UX GPT-3
+### [Live Site](http://Emmanuel50-dev.github.io/modern_ui_ux_gpt3-Website)
+
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
