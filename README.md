@@ -3,71 +3,21 @@
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Problem Description
+The design problem with the GPT-3 website was that it lacked a modern and intuitive user interface. The previous design did not effectively communicate the capabilities and features of GPT-3, and it did not engage the user to explore the product further. Therefore, the website was not able to attract new users or retain existing users.
 
-## Available Scripts
+## Approach Taken
+To solve the problem, a modern UI/UX design approach was taken. The new design focused on creating a user-friendly and visually appealing website that would engage users to explore the product further. The approach involved redesigning the layout, typography, color scheme, and images to make the website more modern and intuitive. The main goal was to create a design that would showcase the features and capabilities of GPT-3 and also provide an easy-to-use interface for the users.
 
-In the project directory, you can run:
+## Design Decisions Made
+The design decisions made for the GPT-3 website were as follows:
 
-### `npm start`
+- The layout was redesigned to be more intuitive and easy to navigate. The new design features a clear hierarchy of information, with a prominent header and footer that contain links to important pages.
+- A new color scheme was chosen to create a modern and sleek look. The color palette includes shades of blue, gray, and white, which work together to create a clean and sophisticated aesthetic.
+- The typography was updated to be more readable and modern. The new design features a sans-serif font that is easy to read on screens of all sizes.
+- Images were selected to showcase the capabilities of GPT-3. The new design features a hero image on the homepage that highlights the product's main features and benefits.
+- The overall design was made more consistent and visually appealing. The new design features a unified design language, with consistent spacing, typography, and color throughout the website.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Overall, the new design approach was successful in creating a modern and intuitive user interface for the GPT-3 website. The redesign has helped to attract new users and retain existing ones, making the product more accessible to a wider audience.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
